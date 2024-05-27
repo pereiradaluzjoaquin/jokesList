@@ -9,6 +9,8 @@ In your JokesList component code, there is a closure in the handleSubmit functio
 
 In handleSubmit and handleDeleteJoke: This two functions makes an API call, one to add a new joke and updates the component's state (newJoke and jokeList) based on the response and the other delete a joke and updates the component's state (jokeList).. This is an expected side-effect for adding a new joke. To avoid potential issues, I could add error handling to deal with failed API calls.
 
+Deployment in https://joaquins-jokes-list.vercel.app/
+
 ## Getting Started
 
 First, run the development server:
