@@ -13,14 +13,6 @@ Deployment in https://joaquins-jokes-list.vercel.app/
 
 ## Getting Started
 
-First, run the development server:
+npm i
 
-```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
