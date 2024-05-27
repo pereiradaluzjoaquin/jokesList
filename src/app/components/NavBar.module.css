@@ -1,0 +1,18 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: #333;
+  color: white;
+}
+
+.navList {
+  display: flex;
+  list-style: none;
+}
+
+.navLink {
+  color: white;
+  text-decoration: none;
+}
